@@ -36,7 +36,7 @@ namespace Blossom::Utils {
             }
 
             /**
-             * Splits the given string based on the specified delimiter.
+             * @brief Splits the given string based on the specified delimiter.
              *
              * @param inputString The string to be split.
              * @param delimiter The character to use as a delimiter.
@@ -48,7 +48,7 @@ namespace Blossom::Utils {
             }
 
             /**
-             * Capitalizes the first letter of the input string.
+             * @brief Capitalizes the first letter of the input string.
              *
              * @param inputString The string to capitalize.
              * @return A new string with the first letter capitalized.
